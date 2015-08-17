@@ -1,0 +1,16 @@
+#image {
+	margin:auto;
+	height:95px;
+	width:269px;
+	padding-top:112px;	
+}
+#searchbox {
+	margin:0 auto;
+	padding-top:130px;
+	position:relative;
+	width:269px;
+}
+#search {
+	width:269px;
+	font-size:24px;
+}
